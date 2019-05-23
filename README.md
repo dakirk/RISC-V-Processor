@@ -1,5 +1,5 @@
 # RISC-V-Processor
-Simple single-stage RISC-V processor which can run simple programs with a limited instruction set. Programs can be written in RISC-V assembly and compiled for this processor using [this assembler](https://github.com/dakirk/RISC-V-Assembler)
+Simple single-stage RISC-V processor which can run simple programs with a limited instruction set. Programs can be written in RISC-V assembly and compiled for this processor using [this assembler](https://github.com/dakirk/RISC-V-Assembler).
 
 To use:
 1. Create a new Verilog project and import each module and testbench manually
